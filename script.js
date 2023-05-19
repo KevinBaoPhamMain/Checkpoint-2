@@ -355,9 +355,9 @@ stopBtnAll.addEventListener('click', function(){
     document.getElementById('min2').innerHTML = "00";
     document.getElementById('sec2').innerHTML = "00";
 
-    minute1 = 00;
-    second1 = 00;
-    count1 = 00;
+    minute = 00;
+    second = 00;
+    count = 00;
     document.getElementById('min1').innerHTML = "00";
     document.getElementById('sec1').innerHTML = "00";
 })
